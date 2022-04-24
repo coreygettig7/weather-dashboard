@@ -12,7 +12,7 @@
   - [Contact](#contact)
 
   ## Screenshot:
-  ![Screenshot](https://raw.github.com/coreygettig7/weather-dashboard/main/assets/img/dashboard-screenshot.png)
+  ![Screenshot](https://user-images.githubusercontent.com/94506919/164956551-d83931aa-3476-4b55-8404-064895ce6a7a.png)
 
   ## Description:
   An app that a user can use to search for current and future 5-day forecast data by typing in a city name. The application will also save past searches to localstorage so the user can easily get data from past searches if they would like.
